@@ -1,4 +1,4 @@
-# hw_m5_financial_planners
+# financial_planners
 
 This file serves as a current and future financial planner for members of a credit union.
 
